@@ -1,4 +1,4 @@
-###Project #1: Data Mining & Cleaning
+### Project 1: Data Mining & Cleaning
 
 - **Origin**: [Making Noise and Hearing Things Website](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)
 - **Data Source**: [Register of UK Parliament Members’ Financial Interests](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/)
